@@ -3,7 +3,7 @@
 
 ---
 
-#### What the application do? ####
+#### What does the application do? ####
 1. **Take necessary inputs** from the user. It can be according to, 
     1. **Hudson's Methodology** or,
     2. **Van der Meer's Methodology**
